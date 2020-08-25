@@ -1,0 +1,107 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":{
+			"ele_trashdogventura_standardvariant":10,
+			
+			
+	},
+	"combatSmall":{
+	},
+	
+	"combatMedium":{
+	      "ele_divinefire_variant":10,	
+	      "ele_flakbus_variant":9,	
+	},
+	"combatLarge":{
+	      "ele_auroraventura_standardvariant":10,
+	      "ele_Rustyard_variant":10,
+	},
+	"combatCapital":{
+	       "ele_rumdeckventura_variant":8,
+		   "ele_Ludapostle_variant1":10,
+		
+	},
+	
+	
+	# hybrid ships with good combat and cargo capacity
+	"combatFreighterSmall":{
+	},
+	"combatFreighterMedium":{
+	},
+	"combatFreighterLarge":{	
+	},
+	
+	"civilianRandom":{
+		
+	},
+
+	# carriers
+	"carrierSmall":{
+	     "ele_Omicron_variant":10,
+	},
+	"carrierMedium":{
+		  "goliathventura_standardvariant":10,
+		  "ele_pathergoliathventurastandard":10,
+	},
+	"carrierLarge":{
+			 "ele_Arsenalventurastandard":10,
+	},
+
+
+	# freighters and such
+	"freighterSmall":{
+			
+	},
+	"freighterMedium":{
+	},
+
+	
+	"tankerSmall":{
+	},
+	"tankerMedium":{
+	},
+	"tankerLarge":{
+	},
+	
+	"personnelSmall":{
+	},
+	"personnelMedium":{
+	},
+	"personnelLarge":{
+	},
+	
+	"linerSmall":{
+	},
+	"linerMedium":{
+	},
+	"linerLarge":{
+	},
+	
+	# utility ships
+	"tug":{
+	},
+	"crig":{
+	},
+	"utility":{
+	},
+	
+	"orbitalStationLowTech":{
+	},
+	
+	"battlestationLowTech":{
+	},
+	
+	
+
+
+	# Old/unused below this line
+	"fastAttack":{
+	},
+
+	"escortSmall":{
+	},
+	"escortMedium":{
+	},
+	
+}

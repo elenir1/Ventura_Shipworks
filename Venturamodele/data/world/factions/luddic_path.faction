@@ -1,0 +1,25 @@
+{
+    "hullFrequency":{
+        "hulls":{
+            "ele_pathergoliathventura":6,
+			"ele_Ludapostle":4,
+			"ele_divinefire":8,			
+        },
+	},
+		
+    "shipsWhenImporting":{
+        "hulls":[
+			"ele_pathergoliathventura",
+			"ele_Ludapostle",
+			"ele_divinefire",
+        ],
+    },
+	
+    "knownShips":{
+        "hulls":[
+			"ele_pathergoliathventura",
+			"ele_Ludapostle",
+			"ele_divinefire",
+        ],
+    },
+},

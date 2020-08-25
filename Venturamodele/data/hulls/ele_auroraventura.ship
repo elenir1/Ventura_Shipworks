@@ -1,0 +1,319 @@
+{
+  "bounds": [
+    117.5,
+    36,
+    98.5,
+    36.5,
+    67.5,
+    47.5,
+    36,
+    36,
+    9.5,
+    42.5,
+    -18.5,
+    38.5,
+    -33.5,
+    55,
+    -58.5,
+    45.5,
+    -112,
+    57,
+    -114.5,
+    45,
+    -108,
+    42,
+    -114,
+    28.5,
+    -118.5,
+    26.5,
+    -122.5,
+    -4.5,
+    -118,
+    -32,
+    -107,
+    -47.5,
+    -100,
+    -45,
+    -95,
+    -54,
+    -79,
+    -51,
+    -61.5,
+    -50.5,
+    -44,
+    -49.5,
+    -35.5,
+    -40,
+    -21.5,
+    -42.5,
+    -11,
+    -39,
+    5.5,
+    -44,
+    49.5,
+    -37.5,
+    76.5,
+    -39,
+    90,
+    -30.5,
+    90,
+    1,
+    119,
+    1.5
+  ],
+  "builtInMods": [
+    "eccm",
+    "missleracks"
+  ],
+  "center": [
+    57,
+    121.5
+  ],
+  "collisionRadius": 155,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 10,
+      "length": 28.5,
+      "location": [
+        -119,
+        22
+      ],
+      "style": "MIDLINE",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -114,
+        29.5
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -111.5,
+        34
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -108,
+        39.5
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -119.5,
+        14
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -121.5,
+        8
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -120.5,
+        1
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -122,
+        -5
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 26.5,
+      "location": [
+        -118,
+        -27.5
+      ],
+      "style": "MIDLINE",
+      "width": 8
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -121.5,
+        -11.5
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    },
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 19,
+      "location": [
+        -120,
+        -19.5
+      ],
+      "style": "MIDLINE",
+      "width": 7
+    }
+  ],
+  "height": 243,
+  "hullId": "ele_auroraventura",
+  "hullName": "AuroraVentura",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    0
+  ],
+  "shieldRadius": 143,
+  "spriteName": "graphics/ships/eleventuraaurora.png",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 36,
+      "arc": 310,
+      "id": "WS0001",
+      "locations": [
+        80.5,
+        28
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 59.5,
+      "arc": 276,
+      "id": "WS0002",
+      "locations": [
+        -42.5,
+        29
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -157,
+      "arc": 261,
+      "id": "WS0003",
+      "locations": [
+        -97.5,
+        -14
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -90,
+      "arc": 190,
+      "id": "WS0004",
+      "locations": [
+        -32,
+        -24
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -45,
+      "arc": 37,
+      "id": "WS0005",
+      "locations": [
+        18,
+        -32.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": -45,
+      "arc": 37,
+      "id": "WS0006",
+      "locations": [
+        36,
+        -31.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 37,
+      "id": "WS0007",
+      "locations": [
+        80,
+        -23
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 37,
+      "id": "WS0008",
+      "locations": [
+        80,
+        -5
+      ],
+      "mount": "HARDPOINT",
+      "size": "MEDIUM",
+      "type": "MISSILE"
+    },
+    {
+      "angle": 0,
+      "arc": 37,
+      "id": "WS0009",
+      "locations": [
+        106,
+        19
+      ],
+      "mount": "HARDPOINT",
+      "size": "LARGE",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 114
+}

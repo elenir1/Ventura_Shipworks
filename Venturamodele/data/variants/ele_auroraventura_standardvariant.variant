@@ -1,0 +1,42 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 2,
+  "fluxVents": 2,
+  "goalVariant": true,
+  "hullId": "ele_auroraventura",
+  "hullMods": [],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "ele_auroraventura_standardvariant",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "typhoon",
+        "WS0008": "typhoon",
+        "WS0009": "cyclone"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "sabot",
+        "WS0006": "sabot"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightdualmg",
+        "WS0002": "lightdualmg",
+        "WS0003": "lightdualmg",
+        "WS0004": "dualflak"
+      }
+    }
+  ],
+  "wings": []
+}

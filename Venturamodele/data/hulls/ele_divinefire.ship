@@ -1,0 +1,141 @@
+{
+  "hullName": "Ludd's Fire",
+  "hullId": "ele_divinefire",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/ele_divinefire.png",
+  "style": "LOW_TECH",
+  "height": 154,
+  "width": 103,
+  "center": [52, 77],
+  "collisionRadius": 104,
+  "shieldCenter": [0, 0.5],
+  "shieldRadius": 98,
+  "viewOffset": 0,
+  "builtInMods": [
+    "ill_advised",
+    "safetyoverrides",
+    "missleracks"
+  ],
+  "builtInWeapons": {
+    "WS0001": "hammerrack"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 25,
+      "angle": 0,
+      "locations": [60, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 25,
+      "angle": 0,
+      "locations": [62, -30]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 286,
+      "angle": 180,
+      "locations": [-34, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-74, 6.5],
+      "length": 24,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-74, -6.5],
+      "length": 24,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-73, 15.5],
+      "length": 24,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-73, -15.5],
+      "length": 24,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-72, -24.5],
+      "length": 24,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-72, 24.5],
+      "length": 24,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-76, -36],
+      "length": 27,
+      "width": 7,
+      "angle": -180,
+      "contrailSize": 7,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-76, -43],
+      "length": 27,
+      "width": 7,
+      "angle": -180,
+      "contrailSize": 7,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-73, 38.5],
+      "length": 30.5,
+      "width": 18,
+      "angle": 180,
+      "contrailSize": 18,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -75.5, 48,
+    -64.5, 51,
+    6, 49.5,
+    42, 49.5,
+    60.5, 39,
+    61, 18,
+    75.5, 17.5,
+    75.5, -17.5,
+    61, -18,
+    60.5, -39,
+    42, -49.5,
+    6, -49.5,
+    -64.5, -51,
+    -75.5, -48
+  ]
+}

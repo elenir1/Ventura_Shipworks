@@ -1,0 +1,30 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 2,
+  "fluxVents": 2,
+  "goalVariant": true,
+  "hullId": "ele_trashdogventura",
+  "hullMods": [],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "ele_trashdogventura_standardvariant",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightmg",
+        "WS0002": "lightmg"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "harpoon"
+      }
+    }
+  ],
+  "wings": []
+}

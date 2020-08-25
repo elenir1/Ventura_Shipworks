@@ -1,0 +1,128 @@
+{
+  "hullName": "Omicron",
+  "hullId": "ele_Omicron",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/ele_Omicron.png",
+  "style": "HIGH_TECH",
+  "height": 72,
+  "width": 70,
+  "center": [35, 36],
+  "collisionRadius": 52.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 49.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "Ele_Highqualitymanufacturies"
+  ],
+  "builtInWings": [
+    "wasp_wing"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 237,
+      "angle": 45,
+      "locations": [12, 23]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 237,
+      "angle": -45,
+      "locations": [12, -23]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "HARDPOINT",
+      "arc": 14,
+      "angle": -0,
+      "locations": [25, -23]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "HARDPOINT",
+      "arc": 14,
+      "angle": 0,
+      "locations": [25, 23]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        21, -0,
+        27, -0
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-35, -0],
+      "length": 25,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 14,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-33, 11],
+      "length": 19.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-33, -11],
+      "length": 19.5,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-30, 19],
+      "length": 18.5,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-30, -19],
+      "length": 18.5,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    -34.5, -7,
+    -29.5, -23,
+    -22, -29,
+    -3, -28.5,
+    4.5, -35.5,
+    23, -34,
+    35, -11.5,
+    35, 11.5,
+    23, 34,
+    4.5, 35.5,
+    -3, 28.5,
+    -22, 29,
+    -29.5, 23,
+    -34.5, 7
+  ]
+}

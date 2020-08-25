@@ -1,0 +1,44 @@
+{
+  "displayName": "Standard",
+  "fluxCapacitors": 5,
+  "fluxVents": 3,
+  "goalVariant": true,
+  "hullId": "ele_Arsenalventura",
+  "hullMods": [
+    "pointdefenseai",
+    "recovery_shuttles",
+    "expanded_deck_crew"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "ele_Arsenalventurastandard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightdualmg",
+        "WS0002": "lightdualmg",
+        "WS0003": "lightdualmg",
+        "WS0004": "lightdualmg"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "pilum",
+        "WS0006": "pilum"
+      }
+    }
+  ],
+  "wings": [
+    "dagger_wing",
+    "dagger_wing",
+    "gladius_wing",
+    "hoplon_wing",
+    "longbow_wing",
+    "thunder_wing"
+  ]
+}

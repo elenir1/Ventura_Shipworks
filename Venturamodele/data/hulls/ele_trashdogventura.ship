@@ -1,0 +1,163 @@
+{
+  "bounds": [
+    13.5,
+    13,
+    31,
+    30,
+    31,
+    35.5,
+    22,
+    46,
+    11,
+    46,
+    -6,
+    37,
+    -10.5,
+    28,
+    -10.5,
+    23,
+    -2,
+    20.5,
+    -3,
+    15.5,
+    -19,
+    12.5,
+    -16.5,
+    -5.5,
+    -10.5,
+    -8.5,
+    -10,
+    -13.5,
+    -14.5,
+    -11,
+    -21,
+    -12,
+    -29.5,
+    -20.5,
+    -44.5,
+    -26,
+    -44.5,
+    -36,
+    -27,
+    -39.5,
+    -16.5,
+    -49.5,
+    -5.5,
+    -49,
+    2.5,
+    -43.5,
+    12,
+    -43.5,
+    12,
+    -31.5,
+    9,
+    -30.5,
+    7.5,
+    -15,
+    14,
+    -6
+  ],
+  "builtInWings": [],
+  "center": [
+    47,
+    45.5
+  ],
+  "collisionRadius": 63.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 4,
+      "length": 11,
+      "location": [
+        -7.5,
+        35.5
+      ],
+      "style": "LOW_TECH",
+      "width": 4
+    },
+    {
+      "angle": 180,
+      "contrailSize": 4,
+      "length": 11,
+      "location": [
+        -9,
+        32
+      ],
+      "style": "LOW_TECH",
+      "width": 4
+    },
+    {
+      "angle": 180,
+      "contrailSize": 4,
+      "length": 11,
+      "location": [
+        -10.5,
+        27.5
+      ],
+      "style": "LOW_TECH",
+      "width": 4
+    },
+    {
+      "angle": 180,
+      "contrailSize": 8,
+      "length": 16.5,
+      "location": [
+        -44.5,
+        -30
+      ],
+      "style": "LOW_TECH",
+      "width": 8
+    }
+  ],
+  "height": 77,
+  "hullId": "ele_trashdogventura",
+  "hullName": "trashdogventura",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 57.5,
+  "spriteName": "graphics/ships/eleventuratrashdog.png",
+  "style": "LOW_TECH",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 62,
+      "arc": 319,
+      "id": "WS0001",
+      "locations": [
+        15.5,
+        32
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": -110.5,
+      "arc": 321,
+      "id": "WS0002",
+      "locations": [
+        -9.5,
+        -35
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BALLISTIC"
+    },
+    {
+      "angle": 0,
+      "arc": 25,
+      "id": "WS0003",
+      "locations": [
+        7.5,
+        -37
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "MISSILE"
+    }
+  ],
+  "width": 97
+}
