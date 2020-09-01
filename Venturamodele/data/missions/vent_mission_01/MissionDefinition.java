@@ -38,6 +38,10 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 				api.addToFleet(FleetSide.PLAYER, "ele_divinefire_variant", FleetMemberType.SHIP, false);
 				api.addToFleet(FleetSide.PLAYER, "ele_Omicron_variant", FleetMemberType.SHIP, false);
 				api.addToFleet(FleetSide.PLAYER, "ele_flakbus_variant", FleetMemberType.SHIP, false);
+				api.addToFleet(FleetSide.PLAYER, "ele_legionette_variant", FleetMemberType.SHIP, false);
+				api.addToFleet(FleetSide.PLAYER, "ele_correr_variant", FleetMemberType.SHIP, false);
+				api.addToFleet(FleetSide.PLAYER, "ele_correr_pirate_variant", FleetMemberType.SHIP, false);
+				
 			
 
 		

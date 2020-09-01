@@ -1,0 +1,98 @@
+{
+  "hullName": "Correr",
+  "hullId": "ele_correr",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/ele_correr.png",
+  "style": "MIDLINE",
+  "height": 79,
+  "width": 72,
+  "center": [36, 39.5],
+  "collisionRadius": 54,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 49.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": -63.5,
+      "locations": [27.5, -17]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": 63.5,
+      "locations": [27.5, 17]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 10,
+      "angle": 0,
+      "locations": [26, -0]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 231,
+      "angle": 180,
+      "locations": [-27.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-38.5, -10.5],
+      "length": 28.5,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 9,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-38.5, 10.5],
+      "length": 28.5,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 9,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-38.5, -19.5],
+      "length": 28.5,
+      "width": 9,
+      "angle": -180,
+      "contrailSize": 9,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-38.5, 19.5],
+      "length": 28.5,
+      "width": 9,
+      "angle": 180,
+      "contrailSize": 9,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -38.5, -25,
+    7.5, -26,
+    13, -35,
+    23.5, -35,
+    38.5, -20,
+    38.5, 20,
+    23.5, 35,
+    13, 35,
+    7.5, 26,
+    -38.5, 25
+  ]
+}

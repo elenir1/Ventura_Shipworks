@@ -2,7 +2,7 @@
   "variantId": "ele_Rustyard_variant",
   "hullId": "ele_Rustyard",
   "displayName": "Standard",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 31,
   "fluxVents": 13,
   "quality": 1,

@@ -2,7 +2,7 @@
   "variantId": "ele_Omicron_variant",
   "hullId": "ele_Omicron",
   "displayName": "Standard",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 10,
   "fluxVents": 10,
   "quality": 1,

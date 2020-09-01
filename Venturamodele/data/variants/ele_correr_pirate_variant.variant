@@ -1,36 +1,36 @@
 {
-  "variantId": "ele_divinefire_variant",
-  "hullId": "ele_divinefire",
-  "displayName": "Holy Mission",
+  "variantId": "ele_correr_pirate_variant",
+  "hullId": "ele_correr_pirate",
+  "displayName": "Rocket Smuggler",
   "goalVariant": true,
-  "fluxCapacitors": 2,
-  "fluxVents": 2,
+  "fluxCapacitors": 6,
+  "fluxVents": 5,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
-    "eccm",
-    "auxiliarythrusters"
+    "missleracks"
   ],
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "hammerrack"
+        "WS0003": "sabotpod"
       }
     },
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "lightag"
+        "WS0001": "annihilator",
+        "WS0002": "annihilator"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0003": "lightdualmg"
+        "WS0004": "lightdualmg"
       }
     }
   ],

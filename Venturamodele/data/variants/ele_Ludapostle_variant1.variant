@@ -2,7 +2,7 @@
   "variantId": "ele_Ludapostle_variant1",
   "hullId": "ele_Ludapostle",
   "displayName": "Ludd's approved",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 7,
   "fluxVents": 18,
   "quality": 1,

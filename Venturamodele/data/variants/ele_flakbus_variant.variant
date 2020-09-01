@@ -2,7 +2,7 @@
   "variantId": "ele_flakbus_variant",
   "hullId": "ele_flakbus",
   "displayName": "Anti Fighter",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 12,
   "fluxVents": 19,
   "quality": 1,

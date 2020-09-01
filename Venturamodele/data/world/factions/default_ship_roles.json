@@ -43,6 +43,7 @@
 	"carrierMedium":{
 		  "goliathventura_standardvariant":10,
 		  "ele_pathergoliathventurastandard":10,
+		  "ele_legionette_variant":10,		  
 	},
 	"carrierLarge":{
 			 "ele_Arsenalventurastandard":10,
@@ -51,6 +52,8 @@
 
 	# freighters and such
 	"freighterSmall":{
+	    "ele_correr_variant":10,
+	    "ele_correr_pirate_variant":10,	     
 			
 	},
 	"freighterMedium":{
